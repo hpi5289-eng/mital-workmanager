@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MITAL WorkManager</string>
+    <string name="title_activity_main">MITAL WorkManager</string>
+    <string name="package_name">info.mitalinfosys.workmanager</string>
+    <string name="custom_url_scheme">info.mitalinfosys.workmanager</string>
+    <string name="widget_description">Shows pending works with Mark Done and Add Work options</string>
+</resources>
